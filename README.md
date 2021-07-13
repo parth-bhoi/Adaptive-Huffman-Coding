@@ -2,7 +2,7 @@
 
 **Implementation**
 
-We have uploaded serial, Open MP and MPI implemention of Apadtive Huffman Coding.
+We have uploaded serial, Open MP and MPI implemention of Adaptive Huffman Coding.
 
 **Test Cases**
 
